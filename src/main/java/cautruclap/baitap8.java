@@ -27,6 +27,10 @@ public class baitap8 {
            s =s + i; // s+=i;
        }
        System.out.println("tong day so:" + s);
+       
+       
+       
+       
          
     }
     
